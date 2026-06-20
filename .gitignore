@@ -17,3 +17,6 @@ Thumbs.db
 
 # Archives kept locally, not needed for deployment
 archive/
+
+# Vercel local project link
+.vercel
