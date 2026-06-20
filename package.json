@@ -1,0 +1,22 @@
+{
+  "name": "midnight-walker-portfolio",
+  "version": "1.0.0",
+  "description": "Immersive full-stack personal portfolio with dynamic map navigation, editable content, and a dependency-free Node server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check main.js && node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-site",
+    "canvas",
+    "full-stack",
+    "interactive"
+  ],
+  "author": "Muhammad Ali Abid",
+  "license": "MIT"
+}

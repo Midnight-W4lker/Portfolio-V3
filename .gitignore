@@ -1,0 +1,19 @@
+# Runtime and local data
+node_modules/
+data/messages.json
+
+# Browser/test artifacts
+.chrome-*/
+portfolio-*-check.png
+portfolio-*.png
+reference-*-check.png
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives kept locally, not needed for deployment
+archive/

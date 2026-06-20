@@ -1,0 +1,299 @@
+{
+  "name": "Muhammad Ali Abid",
+  "alias": "Midnight Walker",
+  "email": "aliabid.2259@gmail.com",
+  "bio": "AI researcher and data scientist turning uncertain language, noisy data, and autonomous workflows into systems that can reason, explain, and withstand real use.",
+  "footer": "Midnight Walker Archive",
+  "resume": {
+    "label": "Download Resume",
+    "href": "data/Muhammad_Ali_Abid_CV_Final.pdf",
+    "role": "AI Researcher / Full-stack AI Builder",
+    "cards": [
+      {
+        "label": "Bachelors",
+        "value": "Business Data Analytics"
+      },
+      {
+        "label": "Creative Blend",
+        "value": "AI systems, product UI, and data storytelling"
+      },
+      {
+        "label": "Working Style",
+        "value": "Quiet research, sharp demos, measured execution"
+      }
+    ],
+    "highlights": [
+      {
+        "label": "Degree",
+        "value": "Bachelors in Business Data Analytics"
+      },
+      {
+        "label": "AI",
+        "value": "Agentic and NLP systems"
+      },
+      {
+        "label": "Ship",
+        "value": "Full-stack product demos"
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Stack",
+        "items": [
+          "Python",
+          "TypeScript",
+          "NLP",
+          "LLM workflows",
+          "Dashboards"
+        ]
+      },
+      {
+        "label": "Experience",
+        "items": [
+          "Applied AI prototypes",
+          "Research demos",
+          "Full-stack product surfaces"
+        ]
+      },
+      {
+        "label": "Education",
+        "items": [
+          "Bachelors in Business Data Analytics",
+          "Data-backed decision making"
+        ]
+      },
+      {
+        "label": "Selected Systems",
+        "items": [
+          "Robust NLP Classifier",
+          "Noor-e-Hidayat",
+          "Trade Intelligence Portal"
+        ]
+      }
+    ]
+  },
+  "signal": {
+    "status": "Available for ambitious AI, analytics, and product work",
+    "channels": [
+      "Research collaboration",
+      "AI product engineering",
+      "Dashboard systems"
+    ],
+    "tone": "Clear brief, purposeful build, polished handoff"
+  },
+  "stats": {
+    "projects": "9",
+    "stack": "AI",
+    "mode": "03"
+  },
+  "links": [
+    {
+      "label": "Email",
+      "href": "mailto:aliabid.2259@gmail.com"
+    },
+    {
+      "label": "GitHub",
+      "href": "https://github.com/Midnight-W4lker"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/muhammad-ali-abid-mw/"
+    },
+    {
+      "label": "Resume",
+      "href": "data/Muhammad_Ali_Abid_CV_Final.pdf"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Robust NLP Classifier App",
+      "tag": "NLP / ML",
+      "stack": "Python",
+      "sigil": "01",
+      "featured": true,
+      "description": "A disciplined text-intelligence pipeline that turns raw language into defensible predictions through preprocessing, feature engineering, model inference, and a clear demo surface.",
+      "links": [
+        {
+          "label": "GitHub",
+          "href": "https://github.com/Midnight-W4lker/Robust-NLP-Classifier-App"
+        },
+        {
+          "label": "Demo",
+          "href": "https://youtu.be/b37mmjKvDcI"
+        }
+      ]
+    },
+    {
+      "title": "Noor-e-Hidayat",
+      "tag": "Islamic Tech",
+      "stack": "TypeScript",
+      "sigil": "02",
+      "featured": false,
+      "description": "A digital sanctuary for Islamic knowledge, designed around reverence, clarity, and practical access without letting ornament overpower purpose.",
+      "links": [
+        {
+          "label": "GitHub",
+          "href": "https://github.com/Midnight-W4lker/noor-e-hidayat"
+        }
+      ]
+    },
+    {
+      "title": "Al-Minbar Islamic Super App",
+      "tag": "Super App",
+      "stack": "TypeScript",
+      "sigil": "03",
+      "featured": false,
+      "description": "Quran, Hadith, masjid discovery, and faith-centered utilities shaped into a coherent product experience for daily guidance.",
+      "links": []
+    },
+    {
+      "title": "Trade Intelligence Portal",
+      "tag": "Gov Tech",
+      "stack": "TypeScript",
+      "sigil": "04",
+      "featured": false,
+      "description": "A national-scale intelligence surface that turns trade records into navigable economic evidence for analysts and decision-makers.",
+      "links": []
+    },
+    {
+      "title": "ModivCare Trip Tracker Pro",
+      "tag": "Enterprise",
+      "stack": "TypeScript",
+      "sigil": "05",
+      "featured": false,
+      "description": "An operational tracker for non-emergency medical transportation, built to make logistics, accountability, and service continuity easier to inspect.",
+      "links": [
+        {
+          "label": "GitHub",
+          "href": "https://github.com/Midnight-W4lker/ModivCare-Trip-Tracker-Pro"
+        }
+      ]
+    },
+    {
+      "title": "Stock Forecaster",
+      "tag": "Finance ML",
+      "stack": "TypeScript",
+      "sigil": "06",
+      "featured": false,
+      "description": "A forecasting study that treats markets as noisy language: volatile, patterned, and best understood through careful signals rather than certainty theater.",
+      "links": []
+    },
+    {
+      "title": "Al-Burhan Portal",
+      "tag": "Education",
+      "stack": "TypeScript",
+      "sigil": "07",
+      "featured": false,
+      "description": "A collaborative education portal shaped around proof, structure, and learning paths that make knowledge easier to approach and retain.",
+      "links": []
+    },
+    {
+      "title": "Layer Forge AI",
+      "tag": "AI Infra",
+      "stack": "TypeScript",
+      "sigil": "08",
+      "featured": false,
+      "description": "An AI infrastructure concept for assembling intelligent layers into deployable agentic products with sharper orchestration boundaries.",
+      "links": []
+    },
+    {
+      "title": "Data Viz Histogram Tool",
+      "tag": "Open Source",
+      "stack": "Python",
+      "sigil": "09",
+      "featured": false,
+      "description": "A visualization utility that reveals the hidden shape of uploaded data, whether numerical or categorical, without burying the user in ceremony.",
+      "links": [
+        {
+          "label": "GitHub",
+          "href": "https://github.com/Midnight-W4lker/Data_Viz_Histogram_Tool"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Agentic AI",
+      "text": "Agentic AI capability cluster."
+    },
+    {
+      "title": "NLP and LLMs",
+      "text": "NLP and LLMs capability cluster."
+    },
+    {
+      "title": "Full-stack AI",
+      "text": "Full-stack AI capability cluster."
+    },
+    {
+      "title": "Data Science",
+      "text": "Data Science capability cluster."
+    },
+    {
+      "title": "Research Systems",
+      "text": "Research Systems capability cluster."
+    },
+    {
+      "title": "Product UI",
+      "text": "Product UI capability cluster."
+    },
+    {
+      "title": "Deep Learning",
+      "text": "Deep Learning capability cluster."
+    },
+    {
+      "title": "Deployment Craft",
+      "text": "Deployment Craft capability cluster."
+    }
+  ],
+  "skillGroups": [
+    {
+      "label": "AI Systems",
+      "items": [
+        "Agentic AI",
+        "NLP and LLMs",
+        "Deep Learning",
+        "Research Systems"
+      ]
+    },
+    {
+      "label": "Product Engineering",
+      "items": [
+        "Full-stack AI",
+        "Product UI",
+        "Deployment Craft",
+        "Dashboards"
+      ]
+    },
+    {
+      "label": "Analytics",
+      "items": [
+        "Business Data Analytics",
+        "Data Science",
+        "Visualization",
+        "Evaluation"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "label": "01",
+      "title": "Business Data Analytics foundation",
+      "text": "Built the base for decision intelligence: data-backed reporting, analytical framing, business context, dashboards, and evidence-first communication."
+    },
+    {
+      "label": "02",
+      "title": "Applied AI and product missions",
+      "text": "Converted research ideas into usable prototypes: NLP classifiers, AI-assisted workflows, product surfaces, and demos shaped around real user constraints."
+    },
+    {
+      "label": "03",
+      "title": "Engineering craft learned in the field",
+      "text": "Practiced Python, TypeScript, evaluation, UI systems, deployment discipline, and the habit of making hidden system behavior readable."
+    },
+    {
+      "label": "04",
+      "title": "Current direction",
+      "text": "Focused on agentic AI, LLM/NLP systems, dashboards, and full-stack tools that combine atmosphere with dependable utility."
+    }
+  ]
+}
