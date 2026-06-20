@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/api/portfolio",
+      "destination": "/data/portfolio.json"
+    }
+  ]
+}
